@@ -1,5 +1,5 @@
-# Team G2 T7
-## To run our application, you will need to run the following: <br>
+
+## To run the application, you will need to run the following: <br>
 ### Create database on phpMyAdmin with files located in the data folder:<br>
 create_tables.sql - create tables <br>
 data.sql - populate tables with data <br>
